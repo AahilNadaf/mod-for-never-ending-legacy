@@ -1,3 +1,4 @@
+<script src="bootstrap-wysiwyg.js"></script>
 G.AddData({
 name:'Example mod',
 author:'Orteil',
